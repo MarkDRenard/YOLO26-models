@@ -1,0 +1,184 @@
+{
+  "Models": [
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (nano) .pt model.",
+      "Task": "Object Detection",
+      "File": "yolo26n.pt",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26n.pt",
+      "Size": 5415
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (small) .pt model.",
+      "Task": "Object Detection",
+      "File": "yolo26s.pt",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26s.pt",
+      "Size": 19945
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (medium) .pt model.",
+      "Task": "Object Detection",
+      "File": "yolo26m.pt",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26n.pt",
+      "Size": 43219
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (large) .pt model.",
+      "Task": "Object Detection",
+      "File": "yolo26l.pt",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26l.pt",
+      "Size": 51965
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (extra-large) .pt model.",
+      "Task": "Object Detection",
+      "File": "yolo26x.pt",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26x.pt",
+      "Size": 115887
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (nano) .onnx model.",
+      "Task": "Object Detection",
+      "File": "yolo26n.onnx",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26n.onnx",
+      "Size": 9698
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (small) .onnx model.",
+      "Task": "Object Detection",
+      "File": "yolo26s.onnx",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26s.onnx",
+      "Size": 37383
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (medium) .onnx model.",
+      "Task": "Object Detection",
+      "File": "yolo26m.onnx",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26m.onnx",
+      "Size": 80031
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (large) .onnx model.",
+      "Task": "Object Detection",
+      "File": "yolo26l.onnx",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26l.onnx",
+      "Size": 97268
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection (extra-large) .onnx model.",
+      "Task": "Object Detection",
+      "File": "yolo26x.onnx",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26x.onnx",
+      "Size": 218043
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection .pt models archive.",
+      "Task": "Object Detection",
+      "File": "Detection-yolo26-pt.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Detection-yolo26-pt.zip",
+      "Size": 218750
+    },
+    {
+      "Id": "yolo26-segmentation",
+      "Name": "YOLO26 Segmentation",
+      "Version": "1.1.1",
+      "Description": "Instance Segmentation .pt models archive.",
+      "Task": "Segmentation",
+      "File": "Segmentation-yolo26-pt.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Segmentation-yolo26-pt.zip",
+      "Size": 263152
+    },
+    {
+      "Id": "yolo26-semantic",
+      "Name": "YOLO26 Semantic",
+      "Version": "1.1.1",
+      "Description": "Semantic Segmentation .pt models archive.",
+      "Task": "Semantic Segmentation",
+      "File": "Semantic-yolo26-pt.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Semantic-yolo26-pt.zip",
+      "Size": 146358
+    },
+    {
+      "Id": "yolo26-custom",
+      "Name": "YOLO26 Custom",
+      "Version": "1.1.1",
+      "Description": "Custom .pt models archive.",
+      "Task": "Object Detection",
+      "File": "Custom-yolo26-pt.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Custom-yolo26-pt.zip",
+      "Size": 18189
+    },
+    {
+      "Id": "yolo26-detection",
+      "Name": "YOLO26 Detection",
+      "Version": "1.1.1",
+      "Description": "Object Detection .onnx models archive.",
+      "Task": "Object Detection",
+      "File": "Detection-yolo26-onnx.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Detection-yolo26-onnx.zip",
+      "Size": 362693 
+    },
+    {
+      "Id": "yolo26-segmentation",
+      "Name": "YOLO26 Segmentation",
+      "Version": "1.1.1",
+      "Description": "Instance Segmentation .onnx models archive.",
+      "Task": "Segmentation",
+      "File": "Segmentation-yolo26-onnx.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Segmentation-yolo26-onnx.zip",
+      "Size": 407288
+    },
+    {
+      "Id": "yolo26-semantic",
+      "Name": "YOLO26 Semantic",
+      "Version": "1.1.1",
+      "Description": "Semantic Segmentation .onnx models archive.",
+      "Task": "Semantic Segmentation",
+      "File": "Semantic-yolo26-onnx.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Semantic-yolo26-onnx.zip",
+      "Size": 241313
+    },
+    {
+      "Id": "yolo26-custom",
+      "Name": "YOLO26 Custom",
+      "Version": "1.1.1",
+      "Description": "Custom .onnx models archive.",
+      "Task": "Object Detection",
+      "File": "Custom-yolo26-onnx.zip",
+      "Url": "https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/Custom-yolo26-onnx.zip",
+      "Size": 31911
+    }
+  ]
+}
