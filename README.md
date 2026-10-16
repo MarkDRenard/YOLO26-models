@@ -15,6 +15,6 @@
    2) Archive Zip files containing either, Five (.pt) models or Five (.onnx) models
 
 ### Number Plate
-   1) Individual (.pt) and (.onnx) model. Size: (n)
+   1) Individual (.pt) and (.onnx) model. Size: (s)
    2) Archive Zip files containing either, One (.pt) model or One (.onnx) model
 
