@@ -3,9 +3,9 @@
 ### Models:
 
 ###### Description: Object Detection (nano) .pt model.
-###### Task: Object Detection
-###### File: yolo26n.pt
-###### Url: https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26n.pt
+Task: Object Detection
+File: yolo26n.pt
+Url: https://github.com/MarkDRenard/YOLO26-models/releases/download/v1.1.1/yolo26n.pt
     },
     {
       "Id": "yolo26-detection",
