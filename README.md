@@ -15,6 +15,6 @@
    2) Archive .zip files containing either, five .pt models or five .onnx models
 
 ### Custom
-   1) Individual .pt and .onnx models size (n)
+   1) Individual .pt and .onnx model size (n)
    2) Archive .zip files containing either, one .pt model or one .onnx model
 
